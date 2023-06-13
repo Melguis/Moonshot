@@ -19,6 +19,7 @@
 		B2C6C4A92A37D3E100EF98C9 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C6C4A82A37D3E100EF98C9 /* Color-Theme.swift */; };
 		B2C6C4AB2A37D6EF00EF98C9 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C6C4AA2A37D6EF00EF98C9 /* MissionView.swift */; };
 		B2C6C4AD2A37DF4300EF98C9 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C6C4AC2A37DF4300EF98C9 /* AstronautView.swift */; };
+		B2C6C4AF2A37E39700EF98C9 /* DividerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C6C4AE2A37E39700EF98C9 /* DividerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		B2C6C4A82A37D3E100EF98C9 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		B2C6C4AA2A37D6EF00EF98C9 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		B2C6C4AC2A37DF4300EF98C9 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		B2C6C4AE2A37E39700EF98C9 /* DividerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				B274561D2A366C9E007FE04D /* MoonshotApp.swift */,
 				B274561F2A366C9E007FE04D /* ContentView.swift */,
 				B2C6C4AA2A37D6EF00EF98C9 /* MissionView.swift */,
+				B2C6C4AE2A37E39700EF98C9 /* DividerView.swift */,
 				B2C6C4AC2A37DF4300EF98C9 /* AstronautView.swift */,
 				B2C6C4A82A37D3E100EF98C9 /* Color-Theme.swift */,
 				B2C6C4A22A37C3EE00EF98C9 /* Astronaut.swift */,
@@ -164,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2C6C4AB2A37D6EF00EF98C9 /* MissionView.swift in Sources */,
+				B2C6C4AF2A37E39700EF98C9 /* DividerView.swift in Sources */,
 				B2C6C4A32A37C3EE00EF98C9 /* Astronaut.swift in Sources */,
 				B2C6C4AD2A37DF4300EF98C9 /* AstronautView.swift in Sources */,
 				B2C6C4A92A37D3E100EF98C9 /* Color-Theme.swift in Sources */,
